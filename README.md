@@ -1,4 +1,7 @@
+#al abrir la apk poner el celular en modo claro#
+
 Integrantes:
+
 Nicolas Estiven Mosquera Ortiz
 
 
