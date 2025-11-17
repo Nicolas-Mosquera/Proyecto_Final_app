@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdoptaPet</string>
+    <string name="detalle_imagen">Imagen del detalle de la mascota</string>
+    <string name="favorito">Favorito</string>
+    <string name="buscar_mascota">Buscar mascota...</string>
+    <string name="volver">Volver</string>
+
+</resources>
